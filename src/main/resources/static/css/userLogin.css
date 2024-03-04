@@ -1,0 +1,70 @@
+.loginLabel {
+    color: #000;
+    font-family: KoHo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.loginInputBox {
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #000;
+    width: 300px;
+    height: 30px;
+    flex-shrink: 0;
+    padding: 50;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.loginBody {
+    text-align: center;
+}
+
+.loginHeading {
+    color: #000;
+    font-family: KoHo;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.loginMainHeading{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #000;
+    font-family: KoHo;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.loginButton {
+    width: 150px;
+    height: 40px;
+    color: #000;
+    font-family: KoHo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 23px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    transition: color 0.5s, background-color 0.5s;
+}
+.loginButton:hover{
+    color: white;
+    background-color: black;
+
+}
+
+.loginCoverImage{
+    height: 300;
+}

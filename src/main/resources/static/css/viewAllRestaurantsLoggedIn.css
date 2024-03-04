@@ -1,0 +1,71 @@
+.viewAllResBody {
+	text-align: center;
+}
+
+.viewAllResMainHeading {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #000;
+	font-family: KoHo;
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.viewAllButton {
+	border-radius: 25px;
+	border: 2px solid #000;
+	background: #f8f8f8;
+	height: 35px;
+	font-family: koHo;
+	font-size: 20px;
+	font-weight: 500;
+	cursor: pointer;
+	padding-left: 25px;
+	padding-right: 25px;
+	transition: background 0.5s, color 0.5s;
+}
+
+.viewAllButton:hover {
+	background: #000000;
+	color: white;
+}
+
+.restaurantCardsContainer {
+	display: inline;
+	width: 300px;
+	margin: 20px;
+}
+
+.restaurantCards {
+	border-radius: 20px 20px 0px 0px;
+	display: inline-block;
+	margin: 20px;
+}
+
+.restaurantCardsElements {
+	display: flex;
+}
+
+.restaurantCardsText {
+	text-align: start;
+	font-family: koHo;
+	display: flex;
+	flex: 1;
+}
+
+.viewUserName {
+	font-family: koHo;
+	background: white;
+	color: black;
+	font-size: 18px;
+	border: 0px;
+	border-radius: 20px;
+	cursor: pointer;
+	transition: background 0.5s;
+}
+
+.viewUserName:hover {
+	background: rgb(245, 245, 245);
+}

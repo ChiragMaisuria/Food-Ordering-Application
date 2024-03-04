@@ -1,0 +1,94 @@
+.editLabel {
+	color: #000;
+	font-family: KoHo;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.editInputBox {
+	border-radius: 20px;
+	background: #efefef;
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+	border-color: gray;
+	border: 0px;
+	width: 300px;
+	height: 30px;
+	padding: 50;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.editBody {
+	text-align: center;
+}
+
+.editHeading {
+	color: #000;
+	font-family: KoHo;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.editMainHeading {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #000;
+	font-family: KoHo;
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: inline-block;
+}
+
+.editSubHeading {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #000;
+	font-family: KoHo;
+	font-size: 23px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.editSubHeading2 {
+	color: #000;
+	font-family: KoHo;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.editButton {
+
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-top: 10px;
+	height: 40px;
+	font-family: KoHo;
+	color: white;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	background: #00B876;
+	line-height: normal;
+	border-radius: 20px;
+	border: 1px;
+	border-style: solid;
+	cursor: pointer;
+	border-color: #26DE81;
+	transition: color 0.5s, background-color 0.5s;
+}
+
+.editButton:hover {
+	color: white;
+	background: #00e08e;
+}
